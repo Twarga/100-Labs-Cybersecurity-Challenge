@@ -14,7 +14,7 @@ Welcome to the **100 Labs Cybersecurity Challenge**! This repository documents m
 ## Phase 1: Fundamentals (30 Labs)
 
 ### Networking Basics (5 Labs)
-- [ ] [[Lab 1]]: Set up a home network with routers and switches (GNS3 or EVE-NG) + NAS Server 
+- [ ] [Lab 1: Set up a home network with routers and switches (GNS3 or EVE-NG) + NAS Server](https://github.com/Twarga/LAB1_Home_Network)
 - [ ] Lab 2: Explore Wireshark for network traffic analysis
 - [ ] Lab 3: Configure basic firewall rules (pfSense)
 - [ ] Lab 4: Simulate a small business network (VirtualBox or GNS3)
